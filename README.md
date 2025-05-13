@@ -2,6 +2,12 @@
 
 Adotai Pets Frontend is a web application designed to help users find and adopt pets. This project serves as the frontend interface for the Adotai Pets platform.
 
+## Back-End
+
+The back-end for this project is available in a separate repository. It handles the server-side logic, database management, and API endpoints for the Adotai Pets platform.
+
+Repository: [Adotai Pets Back-End](https://github.com/JoseMatheusR/Adotai-BackEnd)
+
 ## Features
 
 - Pet management for organizations:
@@ -92,6 +98,10 @@ adotai-pets-frontend
 3. Install dependencies:
    ```bash
    npm install
+   ```
+4. Clone the back-end repository:
+   ```bash
+   git clone https://github.com/JoseMatheusR/Adotai-BackEnd
    ```
 
 ## Usage
