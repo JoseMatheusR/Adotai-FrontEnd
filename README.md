@@ -11,7 +11,8 @@ Repository: [Adotai Pets Back-End](https://github.com/JoseMatheusR/Adotai-BackEn
 ## Features
 
 - Pet management for organizations:
-  - Create, edit, and list pets created by the organization.
+  - Create and list pets created by the organization. (DELETE and EDIT are in WIP in the [Back-End](https://github.com/JoseMatheusR/Adotai-BackEnd)
+
 - User-friendly interface for managing adoption requests.
 - Login, register, landing, and management pages.
 - Adoption module (WIP)
